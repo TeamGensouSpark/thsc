@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="googlecode.aviator" type="repository">
+    <properties maven-id="com.googlecode.aviator:aviator:5.4.3" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/aviator/aviator/5.4.3/aviator-5.4.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
