@@ -1,4 +1,4 @@
-package io.github.teamgensouspark.thsc.math;
+package io.github.teamgensouspark.thsc.components;
 
 import com.googlecode.aviator.AviatorEvaluator;
 import com.googlecode.aviator.Expression;
