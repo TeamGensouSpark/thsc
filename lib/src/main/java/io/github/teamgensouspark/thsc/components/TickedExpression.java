@@ -17,5 +17,6 @@ public class TickedExpression {
 
     public Number execute(HashMap<String, Object> env) {
         return (Number) expression.execute(env);
+
     }
 }

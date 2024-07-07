@@ -5,13 +5,13 @@ import java.awt.Color;
 import java.util.HashMap;
 import java.util.Map;
 
-
 @SuppressWarnings("unused")
 public class DanmakuData {
+    // Default
     public double size = 1;
     public double speed = 1;
     public double hurt = 1;
-
+    public String type = "sphere";
     // Horizontal
     public float wideAngle;
     // Vertical

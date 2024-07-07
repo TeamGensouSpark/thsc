@@ -1,4 +1,5 @@
 package io.github.teamgensouspark.thsc.components;
 
-public class TickedTrigger {
+public class TickedTrigger extends Trigger<Integer> {
+
 }
